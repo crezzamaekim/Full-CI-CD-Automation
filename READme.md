@@ -10,3 +10,7 @@
 - Status badge: Shows CI/CD pipeline status
 
 This project has a fully automated CI/CD pipeline using GitHub Actions.
+
+## Live Deployment
+
+Check out the live app here: [CI/CD Pipeline is working!] (https://final-ci-cd-automation.vercel.app/)
